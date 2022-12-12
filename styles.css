@@ -1,2 +1,300 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    width: 1495px;
+    height: 309px;
+    left: 0px;
+    top: 0px;
+
+    background: #03569A;
+    border-radius: 55px 55px 0px 0px;
+}
+
+img {
+    width: 134px;
+    height: 127px;
+    left: 1278px;
+    top: 26px;
+    margin-top: 26px;
+    margin-left: 1278px;
+
+    border-radius: 110px;
+}
+
+.head h1 {
+    position: absolute;
+    width: 760px;
+    height: 79px;
+    left: 79px;
+    top: 11px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+
+    color: #FFFFFF;
+}
+
+.head p {
+    position: absolute;
+    width: 878px;
+    height: 196px;
+    left: 75px;
+    top: 99px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #FFFFFF;
+}
+
+#contacts {
+    position: absolute;
+    width: 1495px;
+    height: 30px;
+    left: 0px;
+    top: 309px;
+
+    background: #004A86;
+    border-radius: 0px 0px 55px 55px;
+}
+
+/* iconify-icon {
+    position: absolute;
+    width: 55px;
+    height: 43px;
+    left: 80px;
+    top: 311px;
+} */
+#LD {
+    /* position: absolute; */
+    width: 290px;
+    height: 25px;
+    left: 179px;
+    top: 320px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#GH {
+    /* position: absolute; */
+    width: 218px;
+    height: 19px;
+    left: 700px;
+    top: 318px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#twt {
+    width: 193px;
+    height: 25px;
+    left: 1138px;
+    top: 320px;
+    text-decoration: none;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+}
+
+#phone {
+    width: 193px;
+    height: 25px;
+    left: 1138px;
+    top: 320px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+}
+
+#address {
+    width: 248px;
+    height: 31px;
+    left: 671px;
+    top: 370px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #FFFFFF;
+}
+
+#mail {
+    width: 226px;
+    height: 28px;
+    left: 1138px;
+    top: 372px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 31px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#skills {
+    width: 552px;
+    height: 154px;
+    left: 84px;
+    top: 444px;
+}
+
+#skills h2 {
+    position: absolute;
+    width: 457px;
+    height: 80px;
+    left: 84px;
+    top: 350px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 77px;
+    text-decoration-line: underline;
+
+    color: #004A86;
+
+}
+
+#c label {
+    position: absolute;
+    width: 99px;
+    height: 43px;
+    left: 110px;
+    top: 430px;
+    background-color: #004A86;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    border-radius: 45px;
+    color: #FFFFFF;
+}
+
+#java label {
+    width: 120.12px;
+    height: 34.09px;
+    /* margin-top: 1200px; */
+
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    background-color: #004A86;
+    border-radius: 30px;
+    /* background-size: cover; */
+    color: #FFFFFF;
+}
+
+#html label {
+    font-size: 26px;
+    background-color: #004A86;
+    border-radius: 30px;
+    color: #FFFFFF;
+}
+
+#css label {
+    font-size: 26px;
+    background-color: #004A86;
+    border-radius: 30px;
+    color: #FFFFFF;
+}
+
+#projects h2 {
+    position: absolute;
+    width: 401px;
+    height: 94px;
+    left: 83px;
+    top: 500px;
+
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 77px;
+    text-decoration-line: underline;
+
+    color: #004A86;
+}
+/* #project1{
+    position: absolute;
+    width: 464px;
+height: 47px;
+left: 87px;
+top: 770px;
+
+background: #03569A;
+border-radius: 50px;
+} */
+
+#project1 label {
+    position: absolute;
+    width: 310.51px;
+    height: 48px;
+    left: 110px;
+    top: 580px;
+    background-color: #004A86;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    border-radius: 20px;
+    color: #FFFFFF;
+}
+
+#project2 label {
+    position: absolute;
+    width: 405px;
+    height: 47px;
+    left: 110px;
+    top: 650px;
+    background-color: #004A86;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    border-radius: 20px;
+    color: #FFFFFF;
+}
 
 /* Your CSS Code here. */
