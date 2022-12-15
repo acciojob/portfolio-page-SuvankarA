@@ -265,7 +265,7 @@ background: #03569A;
 border-radius: 50px;
 } */
 
-#project1 label {
+/* #project1 label {
     position: absolute;
     width: 310.51px;
     height: 48px;
@@ -296,5 +296,34 @@ border-radius: 50px;
     border-radius: 20px;
     color: #FFFFFF;
 }
-
+#project3 label{
+    position: absolute;
+    width: 405px;
+    height: 47px;
+    left: 110px;
+    top: 650px;
+    background-color: #004A86;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    border-radius: 20px;
+    color: #FFFFFF;
+} */
+ul{
+    position: absolute;
+    left: 110px;
+    top: 580px;
+    list-style: none;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    
+}
+li{
+    background-color: #004A86;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
 /* Your CSS Code here. */
